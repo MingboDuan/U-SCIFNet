@@ -14,4 +14,5 @@ Algorithm Introduction
  
   4. The detection performance for infrared small targets outperforms other advanced methods.
 
+![outline](overall structure.png)
 
