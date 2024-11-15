@@ -90,6 +90,7 @@ Performance
 | SIRST3    | 82.21  |  82.44 | 98.23 | 9.78 | 
 
 *This code is highly borrowed from [ABC](https://github.com/PANPEIWEN/ABC). Thanks to Peiwen Pan.
+*The overall repository style is highly borrowed from [SCTransNet](https://github.com/xdFai/SCTransNet). Thanks to Shuai Yuan
 
 
 
