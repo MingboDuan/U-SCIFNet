@@ -99,7 +99,13 @@ Performance
  ---
  1. Dai, Y., Wu, Y., Zhou, F., & Barnard, K. (2021). Asymmetric contextual modulation for infrared small target detection. In Proceedings of the IEEE/CVF winter conference on applications of computer vision (pp. 950-959).[[code]](https://github.com/YimianDai/open-acm)
 
- 2. Zang, D., Su, W., Zhang, B., & Liu, H. (2025). DCANet: Dense Convolutional Attention Network for infrared small target detection. Measurement, 240, 115595.[[code]](https://github.com/Tianzishu/DCANet)
+ 2. Li, B., Xiao, C., Wang, L., Wang, Y., Lin, Z., Li, M., ... & Guo, Y. (2022). Dense nested attention network for infrared small target detection. IEEE Transactions on Image Processing, 32, 1745-1758.[[code]](https://github.com/YeRen123455/Infrared-Small-Target-Detection)
+
+ 3. Wu, X., Hong, D., & Chanussot, J. (2022). UIU-Net: U-Net in U-Net for infrared small object detection. IEEE Transactions on Image Processing, 32, 364-376.[[code]](https://github.com/danfenghong/IEEE_TIP_UIU-Net)
+
+ 4. Wang, H., Cao, P., Yang, J., & Zaiane, O. (2024). Narrowing the semantic gaps in u-net with learnable skip connections: The case of medical image segmentation. Neural Networks, 178, 106546.[[code]](https://github.com/McGregorWwww/UDTransNet)
+
+ 5. Zang, D., Su, W., Zhang, B., & Liu, H. (2025). DCANet: Dense Convolutional Attention Network for infrared small target detection. Measurement, 240, 115595.[[code]](https://github.com/Tianzishu/DCANet)
 
 
 
