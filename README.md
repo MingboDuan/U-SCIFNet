@@ -105,7 +105,13 @@ Performance
 
  4. Wang, H., Cao, P., Yang, J., & Zaiane, O. (2024). Narrowing the semantic gaps in u-net with learnable skip connections: The case of medical image segmentation. Neural Networks, 178, 106546.[[code]](https://github.com/McGregorWwww/UDTransNet)
 
- 5. Zang, D., Su, W., Zhang, B., & Liu, H. (2025). DCANet: Dense Convolutional Attention Network for infrared small target detection. Measurement, 240, 115595.[[code]](https://github.com/Tianzishu/DCANet)
+ 5. Yuan, S., Qin, H., Yan, X., Akhtar, N., & Mian, A. (2024). Sctransnet: Spatial-channel cross transformer network for infrared small target detection. IEEE Transactions on Geoscience and Remote Sensing.[[code]](https://github.com/xdFai/SCTransNet)
+
+ 6. Xu, S., Zheng, S., Xu, W., Xu, R., Wang, C., Zhang, J., ... & Guo, L. (2024). HCF-Net: Hierarchical Context Fusion Network for Infrared Small Object Detection. arXiv preprint arXiv:2403.10778.[[code]](https://github.com/zhengshuchen/HCFNet)
+
+ 7. Pan, P., Wang, H., Wang, C., & Nie, C. (2023, July). ABC: Attention with bilinear correlation for infrared small target detection. In 2023 IEEE International Conference on Multimedia and Expo (ICME) (pp. 2381-2386). IEEE.[[code]](https://github.com/PANPEIWEN/ABC)
+
+ 8. Zang, D., Su, W., Zhang, B., & Liu, H. (2025). DCANet: Dense Convolutional Attention Network for infrared small target detection. Measurement, 240, 115595.[[code]](https://github.com/Tianzishu/DCANet)
 
 
 
