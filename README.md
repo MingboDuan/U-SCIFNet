@@ -89,6 +89,8 @@ Performance
 | NUDT-SIRST    |  94.05  |  94.31   | 98.35  | 2.34  |
 | SIRST3    | 82.21  |  82.44 | 98.23 | 9.78 | 
 
+*This code is highly borrowed from [ABC](https://github.com/PANPEIWEN/ABC). Thanks to Peiwen Pan.
+
 
 
 
