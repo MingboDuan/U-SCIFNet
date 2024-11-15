@@ -95,6 +95,10 @@ Performance
 
 *The overall repository style is highly borrowed from [SCTransNet](https://github.com/xdFai/SCTransNet). Thanks to Shuai Yuan.
 
+ Referrence
+ ---
+ 1. Dai, Y., Wu, Y., Zhou, F., & Barnard, K. (2021). Asymmetric contextual modulation for infrared small target detection. In Proceedings of the IEEE/CVF winter conference on applications of computer vision (pp. 950-959).[[code]](https://github.com/YimianDai/open-acm) 
+
 
 
 
