@@ -97,7 +97,9 @@ Performance
 
  Referrence
  ---
- 1. Dai, Y., Wu, Y., Zhou, F., & Barnard, K. (2021). Asymmetric contextual modulation for infrared small target detection. In Proceedings of the IEEE/CVF winter conference on applications of computer vision (pp. 950-959).[[code]](https://github.com/YimianDai/open-acm) 
+ 1. Dai, Y., Wu, Y., Zhou, F., & Barnard, K. (2021). Asymmetric contextual modulation for infrared small target detection. In Proceedings of the IEEE/CVF winter conference on applications of computer vision (pp. 950-959).[[code]](https://github.com/YimianDai/open-acm)
+
+ 2. Zang, D., Su, W., Zhang, B., & Liu, H. (2025). DCANet: Dense Convolutional Attention Network for infrared small target detection. Measurement, 240, 115595.[[code]](https://github.com/Tianzishu/DCANet)
 
 
 
