@@ -67,7 +67,7 @@ Training
 
 The first step is to modify the settings in the parser object in train.py, where you can select the dataset, specify the number of training epochs, and configure other settings such as image patch size and batch size.
 
-Run command:
+__Run command__:
 ```angular2html
 python train.py
 ```
@@ -77,7 +77,8 @@ Testing
 ---
 
 The initial step involves changing the settings in the parser object in test.py, where you need to specify the paths for loading the weight file and saving the test results.
-Run command:
+
+__Run command__:
 ```angular2html
 python test.py
 ```
