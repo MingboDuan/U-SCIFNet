@@ -86,8 +86,10 @@ Performance
 
 | Dataset         | mIoU (%) | nIoU (%) | Pd (%)|  Fa (10^-6)|
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
-| NUDT-SIRST    |  94.05  |  94.31   | 98.35  | 2.34  |[code for NUDT-SIRST](https://github.com/privary/U-SCIFNet/blob/main/weights/NUDT_best.tar)
+| NUDT-SIRST    |  94.05  |  94.31   | 98.35  | 2.34  |
 | SIRST3    | 82.21  |  82.44 | 98.23 | 9.78 | 
+
+训练好的权重文件在weights文件夹下，可供下载参考。
 
 *This code is highly borrowed from [DNA-Net](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
