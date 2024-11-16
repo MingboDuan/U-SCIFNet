@@ -4,7 +4,7 @@ U-SCIFNet: Infrared Small Target Detection through Improved Skip Connections in 
 Algorithm Introduction
 ----
 
-本文提出了一个空间通道交互融合的U形网络(U-SCIFNet)来实现准确的单帧红外小目标检测。在两种公共数据集(NUAA-SIRST，NUST-SIRST)上的证明了我们方法的有效性。本文的贡献如下：
+We propose a U-shaped network with Spatial-channel Interaction Fusion (U-SCIFNet) for accurate single-frame infrared small target detection.The experimental results on two public datasets (NUAA-SIRST,NUST-SIRST) demonstrate the effectiveness of our method.The contribution of this paper are as follows:
 
   1. Propose a feature fusion strategy for the skip connections in U-Net.
  
@@ -31,10 +31,10 @@ pip install einops
 ```
 You may also need to install other packages, if you encounter a package missing error, you just need to install it using the pip command.
 
-数据集结构
+Dataset Structure
 ---
 
-如果你想要在自己的数据集上训练，你需要按照下列的结构准备数据:
+If you want to train on your own dataset, you need to prepare the data in the following structure:
 ```
   ├──./datasets/
   │    ├── NUDT-SIRST
@@ -65,8 +65,8 @@ You may also need to install other packages, if you encounter a package missing 
 Training
 ---
 
-第一步是在train.py的parser对象中更改设置，可选择数据集，指定训练轮次，其他所有配置包括图像切块大小，批量大小等都在其中。
-运行指令:
+The first step is to modify the settings in the parser object in train.py, where you can select the dataset, specify the number of training epochs, and configure other settings such as image patch size and batch size.
+Run command:
 ```angular2html
 python train.py
 ```
@@ -75,8 +75,8 @@ The results including log files, otherlogs files, model weights, etc., 位于par
 Testing
 ---
 
-第一步是在test.py的parser对象中更改设置，需要指定权重文件的加载路径以及测验结果的保存路径。
-运行指令：
+The initial step involves changing the settings in the parser object in test.py, where you need to specify the paths for loading the weight file and saving the test results.
+Run command:
 ```angular2html
 python test.py
 ```
@@ -89,7 +89,7 @@ Performance
 | NUDT-SIRST    |  94.05  |  94.31   | 98.35  | 2.34  |
 | SIRST3    | 82.21  |  82.44 | 98.23 | 9.78 | 
 
-训练好的权重文件在weights文件夹下，可供下载参考。
+The trained weight files are located in the weights folder and are available for download as a reference.
 
 *This code is highly borrowed from [DNA-Net](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
