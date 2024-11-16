@@ -4,7 +4,7 @@ U-SCIFNet: Infrared Small Target Detection through Improved Skip Connections in 
 Algorithm Introduction
 ----
 
-We propose a U-shaped network with Spatial-channel Interaction Fusion (U-SCIFNet) for accurate single-frame infrared small target detection.The experimental results on two public datasets (NUAA-SIRST,NUST-SIRST) demonstrate the effectiveness of our method.The contribution of this paper are as follows:
+We propose a U-shaped network with Spatial-channel Interaction Fusion (U-SCIFNet) for accurate single-frame infrared small target detection. The experimental results on two public datasets (NUAA-SIRST,NUST-SIRST) demonstrate the effectiveness of our method. The contribution of this paper are as follows:
 
   1. Propose a feature fusion strategy for the skip connections in U-Net.
  
@@ -66,11 +66,12 @@ Training
 ---
 
 The first step is to modify the settings in the parser object in train.py, where you can select the dataset, specify the number of training epochs, and configure other settings such as image patch size and batch size.
+
 Run command:
 ```angular2html
 python train.py
 ```
-The results including log files, otherlogs files, model weights, etc., 位于parser中指定的save和log_dir的存放路径。
+The results, including log files, other logs, model weights, etc., are stored in the paths specified by the save and log_dir in the parser.
 
 Testing
 ---
@@ -89,7 +90,7 @@ Performance
 | NUDT-SIRST    |  94.05  |  94.31   | 98.35  | 2.34  |
 | SIRST3    | 82.21  |  82.44 | 98.23 | 9.78 | 
 
-The trained weight files are located in the weights folder and are available for download as a reference.
+Please note：The trained weight files are located in the weights folder and are available for download as a reference.
 
 *This code is highly borrowed from [DNA-Net](https://github.com/YeRen123455/Infrared-Small-Target-Detection). Thanks to Boyang Li.
 
