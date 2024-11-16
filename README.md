@@ -25,7 +25,7 @@ Installation
 # RTX 3090(24GB)
 
 conda create -n py38 python=3.8
-conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cudatoolkit=11.1 -c pytorch -c nvidia
+conda install pytorch==1.10.0 torchvision==0.11.1 torchaudio==0.10.0 cudatoolkit=11.1 -c pytorch -c nvidia
 
 pip install einops
 ```
